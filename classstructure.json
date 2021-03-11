@@ -1,0 +1,732 @@
+{
+    "member": [
+        {
+            "parent": "",
+            "classstructureid": "1080",
+            "description": "Facility Operations",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/0-301",
+            "classificationid": "FACILITYOPS"
+        },
+        {
+            "parent": "",
+            "classstructureid": "1081",
+            "description": "Janitorial Operations",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/1-302",
+            "classificationid": "JANITORIALOPS"
+        },
+        {
+            "parent": "1080",
+            "classstructureid": "1082",
+            "description": "HVAC Systems",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/2-303",
+            "classificationid": "HVAC"
+        },
+        {
+            "parent": "1081",
+            "classstructureid": "1083",
+            "description": "Dumpster - Outside dumpster trash removal",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/3-304",
+            "classificationid": "DUMPSTER"
+        },
+        {
+            "parent": "1080",
+            "classstructureid": "1084",
+            "description": "Building Maintenance",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/4-305",
+            "classificationid": "BLDGMAINT"
+        },
+        {
+            "parent": "1080",
+            "classstructureid": "1085",
+            "description": "Plumbing",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/5-306",
+            "classificationid": "PLUMBING"
+        },
+        {
+            "parent": "1080",
+            "classstructureid": "1086",
+            "description": "Pest Control",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/6-307",
+            "classificationid": "PESTCNTRL"
+        },
+        {
+            "parent": "1080",
+            "classstructureid": "1087",
+            "description": "Electrical",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/7-308",
+            "classificationid": "ELECTRICAL"
+        },
+        {
+            "parent": "1081",
+            "classstructureid": "1088",
+            "description": "Day Porter Services (spills)",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/8-309",
+            "classificationid": "DAYPORTR"
+        },
+        {
+            "parent": "1081",
+            "classstructureid": "1089",
+            "description": "Window Cleaning",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/9-310",
+            "classificationid": "CLNWINDW"
+        },
+        {
+            "parent": "1081",
+            "classstructureid": "1090",
+            "description": "Janitorial services - General",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/10-311",
+            "classificationid": "GENJAN"
+        },
+        {
+            "parent": "1081",
+            "classstructureid": "1091",
+            "description": "Room Cleaning",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/11-312",
+            "classificationid": "CLNROOM"
+        },
+        {
+            "parent": "1081",
+            "classstructureid": "1092",
+            "description": "Floor Cleaning",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/12-313",
+            "classificationid": "CLNFLOOR"
+        },
+        {
+            "parent": "1081",
+            "classstructureid": "1093",
+            "description": "Furniture Cleaning",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/13-314",
+            "classificationid": "FURNCLEA"
+        },
+        {
+            "parent": "1081",
+            "classstructureid": "1094",
+            "description": "Carpet Cleaning",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/14-315",
+            "classificationid": "CLNCARPT"
+        },
+        {
+            "parent": "1081",
+            "classstructureid": "1095",
+            "description": "Recycling",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/15-316",
+            "classificationid": "RECYCLING"
+        },
+        {
+            "parent": "1081",
+            "classstructureid": "1096",
+            "description": "Trash/rubbish removal",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/16-317",
+            "classificationid": "TRASHREM"
+        },
+        {
+            "parent": "1081",
+            "classstructureid": "1097",
+            "description": "Deliver a trash bin",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/17-318",
+            "classificationid": "TRASHDLV"
+        },
+        {
+            "parent": "1082",
+            "classstructureid": "1098",
+            "description": "Too Hot",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/18-319",
+            "classificationid": "HOT"
+        },
+        {
+            "parent": "1082",
+            "classstructureid": "1099",
+            "description": "Too Cold",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/19-320",
+            "classificationid": "COLD"
+        },
+        {
+            "parent": "1082",
+            "classstructureid": "1100",
+            "description": "Noise",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/20-321",
+            "classificationid": "NOISE"
+        },
+        {
+            "parent": "1082",
+            "classstructureid": "1101",
+            "description": "Other HVAC Request",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/21-322",
+            "classificationid": "OTHERHVAC"
+        },
+        {
+            "parent": "1084",
+            "classstructureid": "1102",
+            "description": "Sign Repairs/Installs",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/22-323",
+            "classificationid": "SIGNREPR"
+        },
+        {
+            "parent": "1087",
+            "classstructureid": "1103",
+            "description": "Light Ballast",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/23-324",
+            "classificationid": "BALLAST"
+        },
+        {
+            "parent": "1084",
+            "classstructureid": "1104",
+            "description": "Blind Repairs/Installs",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/24-325",
+            "classificationid": "BLINDSREPR"
+        },
+        {
+            "parent": "1084",
+            "classstructureid": "1105",
+            "description": "Ceilings",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/25-326",
+            "classificationid": "CEILING"
+        },
+        {
+            "parent": "1084",
+            "classstructureid": "1106",
+            "description": "Window Repair",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/26-327",
+            "classificationid": "WINDOWREPR"
+        },
+        {
+            "parent": "1084",
+            "classstructureid": "1107",
+            "description": "Carpet",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/27-328",
+            "classificationid": "CARPET"
+        },
+        {
+            "parent": "1084",
+            "classstructureid": "1108",
+            "description": "General Building Maintenance",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/28-329",
+            "classificationid": "GENERALMAINT"
+        },
+        {
+            "parent": "1084",
+            "classstructureid": "1109",
+            "description": "Hang Pictures, White Boards, Bulletin Boards",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/29-330",
+            "classificationid": "HANG"
+        },
+        {
+            "parent": "1084",
+            "classstructureid": "1110",
+            "description": "Floor Installation & Repairs",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/30-331",
+            "classificationid": "FLOOR"
+        },
+        {
+            "parent": "1084",
+            "classstructureid": "1111",
+            "description": "Light Bulb Replacement",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/31-332",
+            "classificationid": "LIGHT"
+        },
+        {
+            "parent": "1084",
+            "classstructureid": "1112",
+            "description": "General Carpentry",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/32-333",
+            "classificationid": "GENCARP"
+        },
+        {
+            "parent": "1084",
+            "classstructureid": "1113",
+            "description": "Move Tables/Chairs/Boxes/Equipment",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/33-334",
+            "classificationid": "MOVE"
+        },
+        {
+            "parent": "1087",
+            "classstructureid": "1114",
+            "description": "Lighting Fixtures",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/34-335",
+            "classificationid": "FIXTURES"
+        },
+        {
+            "parent": "1084",
+            "classstructureid": "1115",
+            "description": "Wall Repairs",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/35-336",
+            "classificationid": "WALLREPR"
+        },
+        {
+            "parent": "1084",
+            "classstructureid": "1116",
+            "description": "Interior Painting",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/36-337",
+            "classificationid": "PAINTINT"
+        },
+        {
+            "parent": "1084",
+            "classstructureid": "1117",
+            "description": "Exterior Painting",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/37-338",
+            "classificationid": "PAINTEXT"
+        },
+        {
+            "parent": "1084",
+            "classstructureid": "1118",
+            "description": "Project Painting",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/38-339",
+            "classificationid": "PAINTPRJ"
+        },
+        {
+            "parent": "1085",
+            "classstructureid": "1119",
+            "description": "Sinks",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/39-340",
+            "classificationid": "SINK"
+        },
+        {
+            "parent": "1085",
+            "classstructureid": "1120",
+            "description": "General Plumbing",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/40-341",
+            "classificationid": "GENLPLMB"
+        },
+        {
+            "parent": "1085",
+            "classstructureid": "1121",
+            "description": "Eyewash Repair",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/41-342",
+            "classificationid": "EYEWASHRPR"
+        },
+        {
+            "parent": "1085",
+            "classstructureid": "1122",
+            "description": "Water Leaks",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/42-343",
+            "classificationid": "LEAKS"
+        },
+        {
+            "parent": "1085",
+            "classstructureid": "1123",
+            "description": "Showers",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/43-344",
+            "classificationid": "SHOWER"
+        },
+        {
+            "parent": "1085",
+            "classstructureid": "1124",
+            "description": "Toilets",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/44-345",
+            "classificationid": "TOILET"
+        },
+        {
+            "parent": "1086",
+            "classstructureid": "1125",
+            "description": "Exterior Pest/Animal Control",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/45-346",
+            "classificationid": "EXTERIOR"
+        },
+        {
+            "parent": "1086",
+            "classstructureid": "1126",
+            "description": "Interior Pest/Animal Control",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/46-347",
+            "classificationid": "INTERIOR"
+        },
+        {
+            "parent": "1087",
+            "classstructureid": "1127",
+            "description": "Generators",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/47-348",
+            "classificationid": "GENERATR"
+        },
+        {
+            "parent": "1084",
+            "classstructureid": "1128",
+            "description": "Clocks",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/48-349",
+            "classificationid": "CLOCKS"
+        },
+        {
+            "parent": "1087",
+            "classstructureid": "1129",
+            "description": "General Electrical Work",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/49-350",
+            "classificationid": "GENELEC"
+        },
+        {
+            "parent": "1087",
+            "classstructureid": "1130",
+            "description": "Request for lights to be turned on",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/50-351",
+            "classificationid": "LGHTNITE"
+        },
+        {
+            "parent": "1087",
+            "classstructureid": "1131",
+            "description": "Power Outages",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/51-352",
+            "classificationid": "POWER"
+        },
+        {
+            "parent": "1087",
+            "classstructureid": "1132",
+            "description": "Electrical Equipment Repair",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/52-353",
+            "classificationid": "EQUIPRPR"
+        },
+        {
+            "parent": "1087",
+            "classstructureid": "1133",
+            "description": "Emergency Lighting",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/53-354",
+            "classificationid": "EMERGLT"
+        },
+        {
+            "parent": "1087",
+            "classstructureid": "1134",
+            "description": "Electrical Installation",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/54-355",
+            "classificationid": "INSTELEC"
+        },
+        {
+            "parent": "",
+            "classstructureid": "1135",
+            "description": "Grounds Maintenance",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/55-356",
+            "classificationid": "GROUNDSMNT"
+        },
+        {
+            "parent": "1135",
+            "classstructureid": "1136",
+            "description": "Snow Removal",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/56-357",
+            "classificationid": "SNOWREM"
+        },
+        {
+            "parent": "1135",
+            "classstructureid": "1137",
+            "description": "Grounds",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/57-358",
+            "classificationid": "GROUNDS"
+        },
+        {
+            "parent": "1135",
+            "classstructureid": "1138",
+            "description": "Landscaping",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/58-359",
+            "classificationid": "LANDSCAPE"
+        },
+        {
+            "parent": "1084",
+            "classstructureid": "1139",
+            "description": "Key & Lock Repair",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/59-360",
+            "classificationid": "KEYLOCK"
+        },
+        {
+            "parent": "",
+            "classstructureid": "1140",
+            "description": "Room Resources",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/60-361",
+            "classificationid": "ROOMRESOURCES"
+        },
+        {
+            "parent": "1084",
+            "classstructureid": "1142",
+            "description": "Door Repairs & Installs",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/61-363",
+            "classificationid": "DOOR"
+        },
+        {
+            "parent": "1084",
+            "classstructureid": "1143",
+            "description": "Lights over desks or workstations",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/62-401",
+            "classificationid": "LIGHTDESK"
+        },
+        {
+            "parent": "1084",
+            "classstructureid": "1144",
+            "description": "Lights - warehouse, hallways, common areas",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/63-402",
+            "classificationid": "LIGHTOTHER"
+        },
+        {
+            "parent": "1090",
+            "classstructureid": "1145",
+            "description": "Restock Supplies",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/64-403",
+            "classificationid": "SUPPLYRSTK"
+        },
+        {
+            "parent": "",
+            "classstructureid": "1147",
+            "description": "Room/Event Setup",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/65-601",
+            "classificationid": "ROOMSETUP"
+        },
+        {
+            "parent": "1080",
+            "classstructureid": "1149",
+            "description": "Alarms",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/66-603",
+            "classificationid": "ALARMS"
+        },
+        {
+            "parent": "1080",
+            "classstructureid": "1150",
+            "description": "Fire Equipment",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/67-604",
+            "classificationid": "FIRE"
+        },
+        {
+            "parent": "1149",
+            "classstructureid": "1151",
+            "description": "Audible Fire Alarm",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/68-605",
+            "classificationid": "FIREALRM"
+        },
+        {
+            "parent": "1149",
+            "classstructureid": "1152",
+            "description": "Fire Panel Alarm",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/69-606",
+            "classificationid": "FIREPANL"
+        },
+        {
+            "parent": "1149",
+            "classstructureid": "1153",
+            "description": "Refrigeration Alarm",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/70-607",
+            "classificationid": "REFALRM"
+        },
+        {
+            "parent": "1149",
+            "classstructureid": "1154",
+            "description": "UPS Alarm",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/71-608",
+            "classificationid": "UPSALRM"
+        },
+        {
+            "parent": "1149",
+            "classstructureid": "1155",
+            "description": "HVAC Alarm",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/72-609",
+            "classificationid": "HVACALRM"
+        },
+        {
+            "parent": "1150",
+            "classstructureid": "1156",
+            "description": "Fire Pumps",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/73-610",
+            "classificationid": "FIREPUMP"
+        },
+        {
+            "parent": "1150",
+            "classstructureid": "1157",
+            "description": "Fire Suppression System",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/74-611",
+            "classificationid": "FIRESPRS"
+        },
+        {
+            "parent": "1150",
+            "classstructureid": "1158",
+            "description": "Fire Extinguishers",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/75-612",
+            "classificationid": "FIREEXTG"
+        },
+        {
+            "parent": "1084",
+            "classstructureid": "1159",
+            "description": "Elevators",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/76-701",
+            "classificationid": "ELEVATOR"
+        },
+        {
+            "parent": "1149",
+            "classstructureid": "1160",
+            "description": "Fire Tone Silence Request",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/77-702",
+            "classificationid": "FIRETONE"
+        },
+        {
+            "parent": "1087",
+            "classstructureid": "1161",
+            "description": "Exterior Lighting",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/78-703",
+            "classificationid": "EXTLIGHT"
+        },
+        {
+            "parent": "1081",
+            "classstructureid": "1162",
+            "description": "Restroom Check",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/79-704",
+            "classificationid": "RESTROOMCHK"
+        },
+        {
+            "parent": "1081",
+            "classstructureid": "1163",
+            "description": "Break room check",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/80-705",
+            "classificationid": "BREAKROOMCHK"
+        },
+        {
+            "parent": "1080",
+            "classstructureid": "1164",
+            "description": "Automotive Equipment Repair",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/81-706",
+            "classificationid": "AUTOREPAIR"
+        },
+        {
+            "parent": "1164",
+            "classstructureid": "1165",
+            "description": "Automotive Compressors",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/82-707",
+            "classificationid": "AUTOCOMPRESS"
+        },
+        {
+            "parent": "1164",
+            "classstructureid": "1166",
+            "description": "Automotive Lifts",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/83-708",
+            "classificationid": "AUTOLIFT"
+        },
+        {
+            "parent": "1164",
+            "classstructureid": "1167",
+            "description": "Automotive Loaders",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/84-709",
+            "classificationid": "AUTOLOADER"
+        },
+        {
+            "parent": "1164",
+            "classstructureid": "1168",
+            "description": "Automotive Conveying",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/85-710",
+            "classificationid": "AUTOCONVEY"
+        },
+        {
+            "parent": "1164",
+            "classstructureid": "1169",
+            "description": "Other Automotive Equipment",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/86-711",
+            "classificationid": "AUTOOTHER"
+        },
+        {
+            "parent": "1149",
+            "classstructureid": "1490",
+            "description": "Other Alarm",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/87-1401",
+            "classificationid": "OTHALARM"
+        },
+        {
+            "parent": "1087",
+            "classstructureid": "1492",
+            "description": "Energy Report Request",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/88-1502",
+            "classificationid": "ENERGYREQ"
+        },
+        {
+            "parent": "1084",
+            "classstructureid": "1505",
+            "description": "Breakroom Restroom Fixtures (Soap/PTD/Ice/Water)",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/89-9802",
+            "classificationid": "BRFIXTURES"
+        },
+        {
+            "parent": "1084",
+            "classstructureid": "1506",
+            "description": "Specialty Equipment (Lab)",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/90-9803",
+            "classificationid": "SPECEQUP"
+        },
+        {
+            "parent": "1080",
+            "classstructureid": "1507",
+            "description": "Environmental Safety",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/91-9804",
+            "classificationid": "ENVIRONMENTAL"
+        },
+        {
+            "parent": "1507",
+            "classstructureid": "1508",
+            "description": "Trip Hazard",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/92-9805",
+            "classificationid": "TRIPHAZ"
+        },
+        {
+            "parent": "1507",
+            "classstructureid": "1509",
+            "description": "Odor / Smell",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/93-9806",
+            "classificationid": "ODOR"
+        },
+        {
+            "parent": "1507",
+            "classstructureid": "1510",
+            "description": "Safety Shower / Eye Wash Station",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/94-9807",
+            "classificationid": "SAFETYSHWUSED"
+        },
+        {
+            "parent": "1507",
+            "classstructureid": "1511",
+            "description": "Fire Extinguisher Usage",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/95-9808",
+            "classificationid": "FIREEXTGUSED"
+        },
+        {
+            "parent": "1507",
+            "classstructureid": "1512",
+            "description": "Safety Issue",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/96-9809",
+            "classificationid": "GENSAFETY"
+        },
+        {
+            "parent": "1084",
+            "classstructureid": "1517",
+            "description": "GATES",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/97-9904",
+            "classificationid": "GATES"
+        },
+        {
+            "parent": "1084",
+            "classstructureid": "1539",
+            "description": "Kitchen Equipment",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/98-10004",
+            "classificationid": "KITCHENEQ"
+        },
+        {
+            "parent": "1080",
+            "classstructureid": "1543",
+            "description": "Furniture Move",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/99-10404",
+            "classificationid": "FURNMOVE"
+        },
+        {
+            "parent": "1543",
+            "classstructureid": "1544",
+            "description": "Bio Stained Chair Removal",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/100-10405",
+            "classificationid": "BIOSTAINCHR"
+        },
+        {
+            "parent": "1081",
+            "classstructureid": "1594",
+            "description": "Mask Request",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/101-10604",
+            "classificationid": "MASKREQUEST"
+        },
+        {
+            "parent": "1543",
+            "classstructureid": "1602",
+            "description": "Ergonomic / Task Chair Move",
+            "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid/102-10706",
+            "classificationid": "ERGOTASKCHRMOVE"
+        }
+    ],
+    "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid",
+    "responseInfo": {
+        "totalPages": 1,
+        "href": "https://toyota-trn.emaximo.com/maximo/oslc/os/emxmaintsr/zombie/getlist~classstructureid?collectioncount=1&_dropnulls=0&enablesession=1&lean=1&editmode=1&oslc.where=classusewith.objectname=%22SR%22&oslc.select=classstructureid,classificationid,parent,description&oslc.pageSize=1000",
+        "totalCount": 103,
+        "pagenum": 1
+    }
+}
